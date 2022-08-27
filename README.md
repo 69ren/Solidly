@@ -196,7 +196,7 @@ function distribute(address token) external
 ## Security
 
 * [Immunefi Bug Bounty Program](https://web.archive.org/web/20220303194128/https://immunefi.com/bounty/solidly/)
-* Bug Bounty Program
+* [Bug Bounty Program](https://github.com/69ren/Solidly/blob/main/SECURITY.md)
 * MythX: voter.sol
 * MythX: ve.sol
 * MythX: gauges.sol
