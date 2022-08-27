@@ -1,6 +1,8 @@
-# This is a repost of the Solidly exchange source code
+# Solidly Exchange
 
 ![image](https://user-images.githubusercontent.com/111715700/187016905-c47aa58e-dba9-4ecf-95f0-d206745710e5.png)
+
+\*This is a re-upload of the Solidly exchange github, originally created by Andre Cronje.
 
 Solidly allows low cost, near 0 slippage trades on uncorrelated or tightly correlated assets. The protocol incentivizes fees instead of liquidity. Liquidity providers (LPs) are given incentives in the form of `token`, the amount received is calculated as follows;
 
